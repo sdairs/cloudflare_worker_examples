@@ -1,4 +1,4 @@
-# cloudflare_worker_examples
+# Cloudflare Worker Examples
 
 This repo contains a bunch of example of Cloudflare Workers to help you get started.
 
