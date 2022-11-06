@@ -22,7 +22,7 @@ See the [tinybird README](./tinybird/README.md)
 
 ### twitter-webhook
 
-This example shows you how to solve the Twitter CRC (Challenge-Response Check), handle Twitter Account Activity API webhooks & capture the event in [Tinybird](https://tinybird.co) for analytics.
+This example shows you how to solve the Twitter CRC (Challenge-Response Check) & send Twitter Account Activity API webhooks to [Tinybird](https://tinybird.co) so you can track & analyse your Twitter activity.
 
 See the [twitter-webhook README](./twitter-webhook/README.md)
 
